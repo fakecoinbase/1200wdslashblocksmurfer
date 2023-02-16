@@ -42,7 +42,7 @@ install_requires = [
     'flask_restful==0.3.8',
     'flask_wtf==0.14.3',
     'Flask-Limiter',
-    'Werkzeug==1.0.1',
+    'Werkzeug==2.2.3',
     'WTForms==2.3.1',
 ]
 
