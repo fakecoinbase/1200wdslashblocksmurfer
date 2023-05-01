@@ -36,7 +36,7 @@ kwargs = {}
 
 install_requires = [
     'bitcoinlib>=0.4.16',
-    'Flask==1.1.2',
+    'Flask==2.3.2',
     'flask_babel==1.0.0',
     'flask_qrcode==3.0.0',
     'flask_restful==0.3.8',
